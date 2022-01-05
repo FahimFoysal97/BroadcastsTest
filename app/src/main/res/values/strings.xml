@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BroadcastsTest</string>
+    <string name="power_connected">Power connected</string>
+    <string name="power_disconnected">Power disconnected</string>
+    <string name="battery_charged">Battery charged</string>
+    <string name="usb_plugged">USB plugged</string>
+    <string name="ac_plugged">AC plugged</string>
+    <string name="plug_unknown">Plug unknown</string>
+    <string name="battery">Battery</string>
+    <string name="airplanemode_is_on">AirplaneMode is on</string>
+    <string name="airplanemode_is_off">AirplaneMode is off</string>
+    <string name="action1">Action1</string>
+    <string name="action2">Action2</string>
+    <string name="action3">Action3</string>
+    <string name="received_text_1">Received text 1</string>
+    <string name="received_text_2">Received text 2</string>
+    <string name="received_text_3">Received text 3</string>
+</resources>
